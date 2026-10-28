@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\SynaptiX_share\SynaptiX\SynaptiX\bin\Debug\SynaptiX.exe.config
+C:\Users\user\Downloads\SynaptiX_share\SynaptiX\SynaptiX\bin\Debug\SynaptiX.exe
+C:\Users\user\Downloads\SynaptiX_share\SynaptiX\SynaptiX\bin\Debug\SynaptiX.pdb
+C:\Users\user\Downloads\SynaptiX_share\SynaptiX\SynaptiX\obj\Debug\SynaptiX.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\SynaptiX_share\SynaptiX\SynaptiX\obj\Debug\SynaptiX.Properties.Resources.resources
+C:\Users\user\Downloads\SynaptiX_share\SynaptiX\SynaptiX\obj\Debug\SynaptiX.csproj.GenerateResource.cache
+C:\Users\user\Downloads\SynaptiX_share\SynaptiX\SynaptiX\obj\Debug\SynaptiX.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\SynaptiX_share\SynaptiX\SynaptiX\obj\Debug\SynaptiX.exe
+C:\Users\user\Downloads\SynaptiX_share\SynaptiX\SynaptiX\obj\Debug\SynaptiX.pdb
+C:\Users\user\Downloads\SynaptiX_share\SynaptiX\SynaptiX\obj\Debug\NeuroGPT_Kovgan_PI31_2.Form1.resources
